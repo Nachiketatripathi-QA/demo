@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.ArrayList;
 
-public class Compare implements Comparator {
+public class Compare implements Comparator { // modified by Nachiketa
 
 	public static void main(String args[])
 	{
