@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" thread-count="3" parallel="classes" >
+<test name="SnL-Tests">
+<classes>
+<!-- <class name="SnLServiceV1Test" />
+<class name="SnLServiceV2Test" />
+<class name="SnLServiceV3Test" /> -->
+
+</classes>
+</test>
+</suite>
