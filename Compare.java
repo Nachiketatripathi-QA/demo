@@ -75,5 +75,11 @@ public class Compare implements Comparator {
 	 public int getID(){return id;}
 	 public String getName(){return name;}
 	 public double getCGPA(){return cgpa;}
+
+
+         public int getID1(){return id;}   //changes made for demo
+	 public String getName1(){return name;} //changes made for demo
+	 public double getCGPA1(){return cgpa;} //changes made for demo
+
 	
 }
